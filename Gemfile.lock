@@ -2,19 +2,15 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    facter (1.7.1)
+    facter (1.7.6)
     hiera (1.2.1)
       json_pure
     json_pure (1.8.0)
-    metaclass (0.0.1)
-    mocha (0.14.0)
-      metaclass (~> 0.0.1)
     puppet (3.2.1)
       facter (~> 1.6)
       hiera (~> 1.0)
       rgen (~> 0.6)
     puppet-lint (0.3.2)
-    rake (10.0.4)
     rgen (0.6.2)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
